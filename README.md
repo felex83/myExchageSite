@@ -1,4 +1,4 @@
-# platzi-exchange
+# Felex-exchange
 
 ## Project setup
 ```
